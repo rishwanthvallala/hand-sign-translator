@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.DS_Store
+model/*.h5  # Exclude model files if they are large
+data/*.csv  # Exclude data files if they are large
